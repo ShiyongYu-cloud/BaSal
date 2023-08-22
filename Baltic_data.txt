@@ -1,0 +1,13 @@
+Lab_number	RSL	RSL_error	Unit	Age	Age_error	Age_type	Reservoir_age	R_error	Calibration_curve	Year_dated
+LuA5072	-2	0.4	m	8005	100	14C	0	0	intcal20	2013
+LuA5442	-1	0.4	m	7220	90	14C	0	0	intcal20	2013
+LuA5453	3	0.4	m	6415	90	14C	0	0	intcal20	2013
+LuA5028	4.5	0.4	m	6705	95	14C	0	0	intcal20	2013
+Lu302	5	0.4	m	6640	70	14C	0	0	intcal20	2013
+LuA5286	7.2	0.4	m	6695	105	14C	0	0	intcal20	2013
+Lu1461	8	0.4	m	5690	70	14C	0	0	intcal20	2013
+luA5431	7.2	0.4	m	5250	90	14C	0	0	intcal20	2013
+Lu309	5	0.4	m	3820	65	14C	0	0	intcal20	2013
+LuA5005	4.5	0.4	m	3200	90	14C	0	0	intcal20	2013
+LuA5448	3	0.4	m	2935	80	14C	0	0	intcal20	2013
+Lu5400	0.4	0.4	m	385	70	14C	0	0	intcal20	2013

@@ -1,0 +1,10 @@
+Lab_number	RSL	RSL_error	Unit	Age	Age_error	Age_type	Reservoir_age	R_error	Calibration_curve	Year_dated
+BBS-01	-5	0.28	m	2570	60	14C	0	0	intcal20	2011
+BBS-02	-4.2	0.28	m	2210	50	14C	0	0	intcal20	2011
+BBS-03	-3.76	0.23	m	2170	30	14C	0	0	intcal20	2011
+BBS-05	-3.03	0.23	m	1950	30	14C	0	0	intcal20	2011
+BBS-07	-2.56	0.23	m	1340	30	14C	0	0	intcal20	2011
+BBS-08	-1.44	0.23	m	1290	25	14C	0	0	intcal20	2011
+BBS-11	-1.04	0.23	m	1000	35	14C	0	0	intcal20	2011
+BBS-12	-0.69	0.23	m	640	25	14C	0	0	intcal20	2011
+BBS-13	-0.2	0.27	m	110	60	14C	0	0	intcal20	2011

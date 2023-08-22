@@ -1,0 +1,12 @@
+Lab_number	RSL	RSL_error	Unit	Age	Age_error	Age_type	Reservoir_age	R_error	Calibration_curve	Year_dated
+Lab-1241	400	20	cm	7700	110	OSL	NaN	NaN	None	2019
+Lab-1240	300	36	cm	6400	80	14C	NaN	NaN	intcal20	2019
+Lab-1241	-150	30	cm	6200	50	14C	NaN	NaN	intcal20	2019
+Lab-1239	-200	27	cm	6100	60	OSL	NaN	NaN	None	2019
+Lab-1238	-100	32	cm	5000	80	14C	NaN	NaN	intcal20	2020
+Lab-1230	100	28	cm	4560	30	U/Th	NaN	NaN	None	2020
+Lab-1234	190	32	cm	4260	20	OSL	NaN	NaN	None	2019
+Lab-1237	260	35	cm	3700	80	14C	300	200	marine20	2020
+Lab-1236	190	32	cm	3000	40	14C	250	150	marine20	2019
+Lab-1235	100	30	cm	2000	30	14C	150	100	intcal20	2019
+Lab-1234	40	25	cm	1500	30	14C	100	50	marine20	2018
